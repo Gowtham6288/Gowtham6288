@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
 
 I'm Gowtham Reddy  
 Computer Science Student | Aspiring Software Developer  
